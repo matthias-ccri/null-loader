@@ -1,4 +1,4 @@
-# DEPREACTED
+# DEPRECATED
 
 https://webpack.js.org/configuration/resolve/#resolvealias. Setting `resolve.alias.package` to `false` will tell webpack@5 to ignore a module.
 
